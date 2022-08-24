@@ -1,0 +1,116 @@
+.shop-screen-shop-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-background);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.75);
+}
+
+.shop-screen-shop-card-image {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+.shop-screen-shop-card-image p {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 3px;
+    background: var(--color-background-muted);
+    opacity: 0.9;
+    font-size: 12px;
+    text-align: right;
+}
+
+.shop-screen-shop-card-image a {
+    color: var(--color-on-background-highlight);
+}
+
+.shop-screen-shop-card-name {
+    color: var(--color-on-background);
+    margin: 5px 10px 0 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.shop-screen-shop-card-description {
+    color: var(--color-on-background);
+    margin: 10px;
+}
+
+.shop-screen-shop-card-variants {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 20px 0 20px;
+    gap: 10px;
+    user-select: none;
+    align-content: flex-end;
+}
+
+.shop-screen-shop-card-variant-input {
+    display: none;
+}
+
+.shop-screen-shop-card-variants label {
+    height: 20px;
+    line-height: 20px;
+    color: var(--color-on-background);
+    padding: 5px;
+    border: 2px solid var(--color-on-background);
+    border-radius: 100px;
+}
+
+.shop-screen-shop-card-variant-input:checked + label {
+    color: var(--color-on-background-highlight);
+    border: 2px solid var(--color-on-background-highlight);
+}
+
+.shop-screen-shop-card-price {
+    color: var(--color-price);
+    margin: 10px;
+    font-size: 25px;
+}
+
+.shop-screen-shop-card-button {
+    background: var(--color-on-background);
+    color: var(--color-background);
+    padding: 10px;
+    font-size: 20px;
+    animation-duration: var(--shop-page-shop-button-transition-duration);
+    border: none;
+    user-select: none;
+}
+
+.shop-screen-shop-card-button-active {
+    animation-name: shop-screen-shop-card-button-keyframes;
+}
+
+@keyframes shop-screen-shop-card-button-keyframes {
+    0% {
+        background: var(--color-price);
+        color: var(--color-background);
+    }
+    5% {
+        background: var(--color-price);
+        color: var(--color-background);
+    }
+    100% {
+        background: var(--color-on-background);
+        color: var(--color-background);
+    }
+}
+
+@media (min-width: 250px) {
+    .shop-screen-shop-card-name {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 768px) {
+    .shop-screen-shop-card-variants label,
+    .shop-screen-shop-card-button {
+        cursor: pointer;
+    }
+}

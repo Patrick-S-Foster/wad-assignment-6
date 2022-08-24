@@ -1,0 +1,736 @@
+[
+  {
+    "name": "Components",
+    "categories": [
+      {
+        "name": "Processors",
+        "products": [
+          {
+            "name": "AMD Ryzen 7 3700X",
+            "description": "This 8-core, 16-thread processor is capable of speeds up to 4.4GHz with a base clock of 3.6GHz. Perfect for any user needing plenty of power.",
+            "author": "Olivier Collet",
+            "link": "https://unsplash.com/photos/JMwCe3w7qKk",
+            "image": "images/products/components/processors/amd-ryzen-7-3700x.jpg",
+            "price": 299.99,
+            "id": "db38a0ca-deca-4b95-9525-ae3e218f07c9"
+          },
+          {
+            "name": "Intel Core i9-9900K",
+            "description": "This processor has 16 threads among 8 cores, a base clock of 3.6GHz, and a max clock of 5GHz. This is the perfect processor for a user needing a lot of power.",
+            "author": "Christian Wiediger",
+            "link": "https://unsplash.com/photos/4Iv0Z1e2nNY",
+            "image": "images/products/components/processors/intel-core-i9-9900k.jpg",
+            "price": 499.99,
+            "id": "e8201d0e-3a82-4028-9197-72e0bd06895b"
+          },
+          {
+            "name": "AMD Ryzen 5 3600",
+            "description": "With 6 cores, 12 threads, a base clock of 3.6GHz, and a max clock of 4.2GHz, this processor is perfect for an everyday user, without the need for excess power.",
+            "author": "Luis Gonzalez",
+            "link": "https://unsplash.com/photos/jgzdwJWCPDI",
+            "image": "images/products/components/processors/amd-ryzen-5-3600.jpg",
+            "price": 249.99,
+            "id": "d32fa874-1d10-4b65-9a41-5fae7782be3f"
+          }
+        ]
+      },
+      {
+        "name": "RAM",
+        "products": [
+          {
+            "name": "Trident Z Neo RGB",
+            "description": "This DDR4 RAM is extremely fast and reliable, and in addition, RGB lighting makes this a great choice for a user who wants to see their desktop in a different color.",
+            "author": "Luan Gjokaj",
+            "link": "https://unsplash.com/photos/y4_xZ3cs96w",
+            "image": "images/products/components/ram/trident-z-neo-rgb.jpg",
+            "variants": [
+              {
+                "name": "8GB",
+                "price": 99.99,
+                "id": "7fbf4e7f-70de-4c8c-ac30-d005047ea482"
+              },
+              {
+                "name": "16GB",
+                "price": 199.99,
+                "id": "6148b950-df54-4780-be3a-6d1772364554"
+              },
+              {
+                "name": "32GB",
+                "price": 269.99,
+                "id": "212c10a5-102c-4505-a2ee-98bbef904392"
+              },
+              {
+                "name": "64GB",
+                "price": 349.99,
+                "id": "9e3ad5cb-65ba-4e66-99fb-8f8ee9ed8c9c"
+              }
+            ]
+          },
+          {
+            "name": "Elpida THN",
+            "description": "This DDR4 RAM is reliable, and in addition, it has a great price. Ideal for a lower end user.",
+            "author": "Possessed Photography",
+            "link": "https://unsplash.com/photos/nuc3NFB_6po",
+            "image": "images/products/components/ram/elpida-thn.jpg",
+            "variants": [
+              {
+                "name": "4GB",
+                "price": 49.99,
+                "id": "c0de6356-8306-48fe-95af-1e17fae1529c"
+              },
+              {
+                "name": "8GB",
+                "price": 89.99,
+                "id": "678c56ba-905a-4204-9d89-61d80005256d"
+              },
+              {
+                "name": "16GB",
+                "price": 129.99,
+                "id": "610b4cd6-42e3-4d5b-84ab-90c60ebb60c6"
+              }
+            ]
+          },
+          {
+            "name": "Samsung 510",
+            "description": "This DDR4 RAM comes with an extended warranty through Samsung. Enjoy 4 years of worry-free usage.",
+            "author": "Harrison Broadbent",
+            "link": "https://unsplash.com/photos/ING1Uf1Fc30",
+            "image": "images/products/components/ram/samsung-510.jpg",
+            "variants": [
+              {
+                "name": "2GB",
+                "price": 24.99,
+                "id": "a6a4fab7-2fc4-40d4-b79c-8e872108b56b"
+              },
+              {
+                "name": "4GB",
+                "price": 44.99,
+                "id": "03f6faca-b7d2-4a49-8c86-832d49881300"
+              },
+              {
+                "name": "8GB",
+                "price": 69.99,
+                "id": "0838b12c-9f98-400e-b288-f169b75139f4"
+              },
+              {
+                "name": "16GB",
+                "price": 99.99,
+                "id": "d14b036f-e963-487f-a3ac-331a4f98d3d1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Graphics Cards",
+        "products": [
+          {
+            "name": "GTX 1080 Ti",
+            "description": "Enjoy breath taking graphics in nearly any game with this graphics card.",
+            "author": "Nana Dua",
+            "link": "https://unsplash.com/photos/1-Sfd9QSPi4",
+            "image": "images/products/components/graphics-cards/gtx-1080-ti.jpg",
+            "price": 639.99,
+            "id": "640bcfb3-4b0d-493d-9437-a24c8225be0f"
+          },
+          {
+            "name": "RTX 2080",
+            "description": "If you want unparalleled performance along with incredible heat management, then look no farther than this graphics card.",
+            "author": "Nana Dua",
+            "link": "https://unsplash.com/photos/aVeKubCF-48",
+            "image": "images/products/components/graphics-cards/rtx-2080.jpg",
+            "price": 1099.99,
+            "id": "f0218e91-e548-42e7-971a-36541ecbd7fd"
+          },
+          {
+            "name": "Asus Dual",
+            "description": "This dual fan graphics card will run most games on higher settings, and is guaranteed to keep you gaming for years to come.",
+            "author": "Joseph Greve",
+            "link": "https://unsplash.com/photos/D_1-g2eLho8",
+            "image": "images/products/components/graphics-cards/asus-dual.jpg",
+            "price": 249.99,
+            "id": "c2690d99-c750-4616-b07e-18c83b52f51e"
+          }
+        ]
+      },
+      {
+        "name": "Cooling Fans",
+        "products": [
+          {
+            "name": "Thermaltake Fan RGB",
+            "description": "This stylish fans not only efficiently cool your computer, but bring it to life with their RGB lighting.",
+            "author": "Christian Wiediger",
+            "link": "https://unsplash.com/photos/kf_korybd1g",
+            "image": "images/products/components/fans/thermaltake-fan-rgb.jpg",
+            "variants": [
+              {
+                "name": "Single",
+                "price": 34.99,
+                "id": "f15cd240-37b9-415f-80cf-57ddc8b55fda"
+              },
+              {
+                "name": "Dual",
+                "price": 54.99,
+                "id": "5ed50924-de1e-4cd5-b8da-05ddf69d7f67"
+              },
+              {
+                "name": "Quad",
+                "price": 74.99,
+                "id": "590c505b-e6ba-45ff-9abc-5efb384454b6"
+              }
+            ]
+          },
+          {
+            "name": "AMD RGB Fan",
+            "description": "Don't be fooled by this attractive looking fan, its not all looks, it also cools your computer as a top of the line fan.",
+            "author": "Timothy Dykes",
+            "link": "https://unsplash.com/photos/SwJxq8NPD9I",
+            "image": "images/products/components/fans/amd-rgb-fan.jpg",
+            "variants": [
+              {
+                "name": "Single",
+                "price": 44.99,
+                "id": "ee6c050c-8af0-4e73-b997-ca0f8f521c59"
+              },
+              {
+                "name": "Dual",
+                "price": 64.99,
+                "id": "cfd969c9-b406-4e37-8d3a-46bdcd52f8df"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thermal Paste",
+        "products": [
+          {
+            "name": "Thermal Paste",
+            "description": "This top quality thermal paste will spread perfectly no matter which pattern you decide to use.",
+            "author": "Mika Baumeister",
+            "link": "https://unsplash.com/photos/h2z8YJO1t6s",
+            "image": "images/products/components/thermal-paste/thermal-paste.jpg",
+            "variants": [
+              {
+                "name": "3.5g",
+                "price": 4.99,
+                "id": "0fc712be-86ac-4d96-af65-a1e424b2d31b"
+              },
+              {
+                "name": "5g",
+                "price": 9.99,
+                "id": "58f7f87e-1c14-4fb3-947f-eae62266f690"
+              },
+              {
+                "name": "10g",
+                "price": 17.99,
+                "id": "5d7ef6d5-2bde-4b29-9fc3-9878e977ad58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Internal Drives",
+        "products": [
+          {
+            "name": "Western Digital Hard Drive 2TB",
+            "description": "This hard drive is ideal for any user who deals with large files on a regular basis.",
+            "author": "Boitumelo Phetla",
+            "link": "https://unsplash.com/photos/2gjP_aZ2o_I",
+            "image": "images/products/components/internal-drives/western-digital-hard-drive-2tb.jpg",
+            "price": 109.99,
+            "id": "bee476ea-c4fa-4d80-a475-dda375cd58a7"
+          },
+          {
+            "name": "Seagate Hard Drive",
+            "description": "If you need a hard drive that is affordable, and yet performant, this is the hard drive for you.",
+            "author": "lilzidesigns",
+            "link": "https://unsplash.com/photos/erxaUtVnQv0",
+            "image": "images/products/components/internal-drives/seagate-hard-drive.jpg",
+            "variants": [
+              {
+                "name": "250GB",
+                "price": 29.99,
+                "id": "0f417c45-baea-43b6-8f43-09fd3b0553f0"
+              },
+              {
+                "name": "500GB",
+                "price": 39.99,
+                "id": "48f8195c-96cd-4183-af67-20b717f2a639"
+              },
+              {
+                "name": "1TB",
+                "price": 54.99,
+                "id": "3ff906fa-608e-4060-886d-d7115bc801ca"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Storage Devices",
+    "categories": [
+      {
+        "name": "External Hard Drives",
+        "products": [
+          {
+            "name": "Brushed Stainless Steel Hard Drive",
+            "description": "This sleek design will make you the envy of the office, and will keep your data safe and secure.",
+            "author": "Siyuan Hu",
+            "link": "https://unsplash.com/photos/xEK3FiK6H3o",
+            "image": "images/products/storage-devices/external-hard-drives/brushed-stainless-steel-hard-drive.jpg",
+            "variants": [
+              {
+                "name": "1TB",
+                "price": 99.99,
+                "id": "5afccbcb-fd08-4ebb-b282-36975b54de6b"
+              },
+              {
+                "name": "2TB",
+                "price": 149.99,
+                "id": "efd4f049-4a82-45eb-9a9a-94cee63ce4a0"
+              },
+              {
+                "name": "3TB",
+                "price": 199.99,
+                "id": "b20186e5-8115-40c1-bb66-3a86859b68e3"
+              },
+              {
+                "name": "4TB",
+                "price": 249.99,
+                "id": "a6f96b6d-bb78-414f-8a59-889ca54f7b9a"
+              },
+              {
+                "name": "8TB",
+                "price": 399.99,
+                "id": "10d10952-006e-4a3d-a98d-30b0a1a6c076"
+              },
+              {
+                "name": "16TB",
+                "price": 799.99,
+                "id": "6c6232b9-4738-4850-8d84-429e1b278ef6"
+              }
+            ]
+          },
+          {
+            "name": "Samsung Portable SSD T5",
+            "description": "This portable SSD is the perfect accessory anyone who needs to backup their data on the go.",
+            "author": "Erik Werlin",
+            "link": "https://unsplash.com/photos/ZhFoeRUDXhI",
+            "image": "images/products/storage-devices/external-hard-drives/samsung-portable-ssd-t5.jpg",
+            "variants": [
+              {
+                "name": "500GB",
+                "price": 59.99,
+                "id": ""
+              },
+              {
+                "name": "1TB",
+                "price": 89.99,
+                "id": "f76c1daa-13d3-45aa-a8ee-16767eda8490"
+              },
+              {
+                "name": "2TB",
+                "price": 109.99,
+                "id": "d1d7ad3f-b747-4ba4-aa39-d8ea1d06748c"
+              }
+            ]
+          },
+          {
+            "name": "Silicon Power Armor A66",
+            "description": "Drop it? Get it wet? In a sandstorm? With this SSD, all of those things and more are a worry of the past.",
+            "author": "Edgar Moran",
+            "link": "https://unsplash.com/photos/EW6oN8Dj35E",
+            "image": "images/products/storage-devices/external-hard-drives/silicon-power-armor-a66.jpg",
+            "variants": [
+              {
+                "name": "1TB",
+                "price": 129.99,
+                "id": "a84a9952-9532-4962-a272-ae3a722bd76a"
+              },
+              {
+                "name": "2TB",
+                "price": 159.99,
+                "id": "9d688e2f-3e9d-4ebc-9f36-abc293872935"
+              },
+              {
+                "name": "3TB",
+                "price": 179.99,
+                "id": "6ad07f5b-952b-4341-8034-0adba57e9e15"
+              },
+              {
+                "name": "5TB",
+                "price": 199.99,
+                "id": "3f3cf0dd-60e7-4ce6-852d-6857d3fabead"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "USB Drives",
+        "products": [
+          {
+            "name": "SanDisk USB Drive",
+            "description": "This USD drive comes with an attachment to fit on any keychain, so that you have a quick method of storage anywhere, anytime.",
+            "author": "Sara Kurfeß",
+            "link": "https://unsplash.com/photos/9Eid2zc_Veo",
+            "image": "images/products/storage-devices/usb-drives/samsung-usb-drive.jpg",
+            "variants": [
+              {
+                "name": "1GB",
+                "price": 9.99,
+                "id": "9d466d1e-5930-4adf-a8bf-027ed6959699"
+              },
+              {
+                "name": "2GB",
+                "price": 14.99,
+                "id": "840d1927-6ca0-4ef1-b5c4-7e6b9fc61c19"
+              },
+              {
+                "name": "4GB",
+                "price": 19.99,
+                "id": "91339d77-a39d-42ed-82b9-3b639ebeebea"
+              },
+              {
+                "name": "8GB",
+                "price": 24.99,
+                "id": "a994ea0f-017e-4150-88f9-ae6dd2d0c119"
+              },
+              {
+                "name": "16GB",
+                "price": 29.99,
+                "id": "effd9d01-3470-432c-b795-919c5b990cda"
+              },
+              {
+                "name": "32GB",
+                "price": 34.99,
+                "id": "e1816ca8-7ae3-45b3-80ba-6a5fbf31a2e6"
+              },
+              {
+                "name": "64GB",
+                "price": 44.99,
+                "id": "ff9ebf07-b331-4a31-886d-f258a9ec8850"
+              }
+            ]
+          },
+          {
+            "name": "Mobile Disk Z4 512MB",
+            "description": "This USB drive provides extremely cheap storage, perfect for when you have to lend your USB drive to a colleague that never returns items.",
+            "author": "charlesdeluvio",
+            "link": "https://unsplash.com/photos/JWydjixDw1M",
+            "image": "images/products/storage-devices/usb-drives/mobile-disk-z4-512mb.jpg",
+            "price": 4.99,
+            "id": "c8c23cd3-d4ab-43f5-ac9f-edd5199e9d99"
+          },
+          {
+            "name": "Samsung USB Drive",
+            "description": "This USB drive, with its beautiful design, is perfect for any corporate setting, especially when wanting to make a good impression.",
+            "author": "Raghavendra V. Konkathi",
+            "link": "https://unsplash.com/photos/gc_Qo2PH93k",
+            "image": "images/products/storage-devices/usb-drives/samsung-usb-drive.jpg",
+            "variants": [
+              {
+                "name": "8GB",
+                "price": 29.99,
+                "id": "ac9ae143-b231-4397-b589-d42e3439a86b"
+              },
+              {
+                "name": "16GB",
+                "price": 39.99,
+                "id": "62725bc2-957b-4905-8e11-66caec18b268"
+              },
+              {
+                "name": "32GB",
+                "price": 49.99,
+                "id": "db3992ed-a944-4e45-8caf-1231b669acca"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Floppy Disks",
+        "products": [
+          {
+            "name": "Verbatim Floppy Disk",
+            "description": "Top of the line memory storage, with a capacity of 1.4MB, and lightning fast read/write speeds.",
+            "author": "Fernando Lavin",
+            "link": "https://unsplash.com/photos/RxHCRDO0psE",
+            "image": "images/products/storage-devices/floppy-disks/verbatim-floppy-disk.jpg",
+            "variants": [
+              {
+                "name": "1 disk",
+                "price": 2.99,
+                "id": "f0e5a184-27b1-4917-9020-19adcc7c2426"
+              },
+              {
+                "name": "2 disks",
+                "price": 4.99,
+                "id": "517304b9-2a51-449d-ab25-0bebd7b4ab05"
+              },
+              {
+                "name": "4 disks",
+                "price": 8.99,
+                "id": "fc81ad7f-c3ab-49c7-8989-1c879bd75501"
+              },
+              {
+                "name": "8 disks",
+                "price": 16.99,
+                "id": "77401fd5-5c60-4782-9ac6-6567b5678036"
+              },
+              {
+                "name": "10 disks",
+                "price": 19.99,
+                "id": "542500f3-a5d4-41c7-a145-822b9e2fb371"
+              }
+            ]
+          },
+          {
+            "name": "Quark XPress Floppy Disk",
+            "description": "This floppy disk will make you the envy of the office, with everyone asking where you managed to find such an interesting piece of technology.",
+            "author": "Brett Jordan",
+            "link": "https://unsplash.com/photos/1dsceUpkOwI",
+            "image": "images/products/storage-devices/floppy-disks/quark-xpress-floppy-disk.jpg",
+            "variants": [
+              {
+                "name": "5 disks",
+                "price": 10.99,
+                "id": "17a59cf4-cb13-4e14-bd9c-731c5ad0a789"
+              },
+              {
+                "name": "10 disks",
+                "price": 20.99,
+                "id": "d70c2eae-7116-4c14-b060-438872e06897"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Accessories",
+    "categories": [
+      {
+        "name": "Monitors",
+        "products": [
+          {
+            "name": "Macintosh Monitor",
+            "description": "Do you want a stylish monitor with a vibrant display, able to view pictures in 4k? Then this is the monitor for you.",
+            "author": "Nicolas Gonzalez",
+            "link": "https://unsplash.com/photos/183F_vNaN8A",
+            "image": "images/products/accessories/monitors/macintosh-monitor.jpg",
+            "price": 199.99,
+            "id": "9d711c6c-7e70-4e7f-af22-ac2355609df5"
+          },
+          {
+            "name": "LG Monitor",
+            "description": "Looking for a new monitor that has a refresh rate of 120Hz? What about a monitor that can be used to mirror your phone screen? This monitor is waiting for you.",
+            "author": "Daniel Korpai",
+            "link": "https://unsplash.com/photos/iopITwyUcTA",
+            "image": "images/products/accessories/monitors/lg-monitor.jpg",
+            "price": 249.99,
+            "id": "01170b00-91f0-4c69-a372-f31ce13aed03"
+          },
+          {
+            "name": "Widescreen Monitor",
+            "description": "Do you find yourself running out of room on your desktop? Then you need this widescreen monitor to increase your productivity.",
+            "author": "Joshua Aragon",
+            "link": "https://unsplash.com/photos/BMnhuwFYr7w",
+            "image": "images/products/accessories/monitors/widescreen-monitor.jpg",
+            "price": 399.99,
+            "id": "c7396267-bb0e-4c5f-8d90-160d46a57983"
+          }
+        ]
+      },
+      {
+        "name": "Keyboards",
+        "products": [
+          {
+            "name": "Macintosh Keyboard",
+            "description": "This keyboard goes perfectly with not only Macintosh computers, but Windows and Linux as well.",
+            "author": "Clay Banks",
+            "link": "https://unsplash.com/photos/PXaQXThG1FY",
+            "image": "images/products/accessories/keyboards/macintosh-keyboard.jpg",
+            "variants": [
+              {
+                "name": "EN-us",
+                "price": 29.99,
+                "id": "f4af6048-ce88-4953-8d59-defd17bf748d"
+              },
+              {
+                "name": "DE-de",
+                "price": 29.99,
+                "id": "2f6f2c5f-33f2-4331-a447-b839ce6844f2"
+              },
+              {
+                "name": "DE-ch",
+                "price": 29.99,
+                "id": "3d0f5f3c-ac8b-471b-a8a9-fc57da36a98c"
+              },
+              {
+                "name": "FR-fr",
+                "price": 29.99,
+                "id": "3597e592-b589-489c-bc0b-e3dae4ed7996"
+              },
+              {
+                "name": "FR-ch",
+                "price": 29.99,
+                "id": "9ab33720-4cc3-492e-b3aa-1b819b8ffb1e"
+              },
+              {
+                "name": "IT-it",
+                "price": 29.99,
+                "id": "e62d01ca-a3fc-4665-b270-5d0f0de39239"
+              },
+              {
+                "name": "IT-ch",
+                "price": 29.99,
+                "id": "2fdfaa45-9a71-4538-810f-626b31f20a03"
+              }
+            ]
+          },
+          {
+            "name": "Gaming Keyboard",
+            "description": "Do you need a keyboard that has customizable RGB lighting for each individual key? Then you better get this keyboard before it sells out!",
+            "author": "InBox Dicas",
+            "link": "https://unsplash.com/photos/3I5ODoR5gG4",
+            "image": "images/products/accessories/keyboards/gaming-keyboard.jpg",
+            "variants": [
+              {
+                "name": "EN-us",
+                "price": 49.99,
+                "id": "fa704228-ccae-4649-92ad-31f79119f274"
+              },
+              {
+                "name": "DE-de",
+                "price": 49.99,
+                "id": "9e2fad04-b367-475e-8609-60511035eaed"
+              },
+              {
+                "name": "DE-ch",
+                "price": 49.99,
+                "id": "579197bd-4b29-4831-8ab1-b0173fea8bcb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mice",
+        "products": [
+          {
+            "name": "Logitech Gaming Mouse",
+            "description": "This mouse comes with four buttons, a scroll wheel, and a customizable RGB light.",
+            "author": "Ryan Putra",
+            "link": "https://unsplash.com/photos/j4PqlNVZ4Bc",
+            "image": "images/products/accessories/mice/logitech-gaming-mouse.jpg",
+            "price": 39.99,
+            "id": "41548c52-c47d-40bb-8dc4-b855cdedffc0"
+          },
+          {
+            "name": "Wireless Mouse",
+            "description": "With great battery life, and up to a 5m wireless range, there is no better mouse for a corporate environment.",
+            "author": "Oscar Ivan Esquivel Arteaga",
+            "link": "https://unsplash.com/photos/ZtxED1cpB1E",
+            "image": "images/products/accessories/mice/wireless-mouse.jpg",
+            "price": 19.99,
+            "id": "9f13cb40-7ea0-4772-95b9-d0357ebe149a"
+          },
+          {
+            "name": "Honeycomb Mouse",
+            "description": "Ever wanted a unique mouse with a honeycomb pattern in it? In addition to the RGB lighting, this makes this mouse one of a kind.",
+            "author": "maar gaming",
+            "link": "https://unsplash.com/photos/fG4BTSKPo3w",
+            "image": "images/products/accessories/mice/honeycomb-mouse.jpg",
+            "price": 49.99,
+            "id": "4e7addaf-c99f-42f9-8330-fb08ef9dbc21"
+          }
+        ]
+      },
+      {
+        "name": "Speakers",
+        "products": [
+          {
+            "name": "Edifier Speakers",
+            "description": "Want to hear every subtle sound? Then you need these speakers.",
+            "author": "Josh Sorenson",
+            "link": "https://unsplash.com/photos/u8-QI4tRES0",
+            "image": "images/products/accessories/speakers/edifier-speakers.jpg",
+            "price": 59.99,
+            "id": "08901772-8ecb-4576-a0f3-f48b9ee8c9e1"
+          },
+          {
+            "name": "Fluance Speakers",
+            "description": "If you want your room to rattle with the power of the bass, then look no further.",
+            "author": "Caleb Woods",
+            "link": "https://unsplash.com/photos/VVuRLhyTmXM",
+            "image": "images/products/accessories/speakers/fluance-speakers.jpg",
+            "price": 49.99,
+            "id": "aa03682a-b795-4fe2-889f-002702194e26"
+          },
+          {
+            "name": "Teufel Speakers",
+            "description": "Want to add surround sound to your computer? These speakers are the best choice, and very easy to set up.",
+            "author": "Kevin Woblick",
+            "link": "https://unsplash.com/photos/LRamvPjq5Ho",
+            "image": "images/products/accessories/speakers/teufel-speakers.jpg",
+            "variants": [
+              {
+                "name": "Pack of 2",
+                "price": 59.99,
+                "id": "1580efab-4e0c-41ef-9c90-3ee848d83b5d"
+              },
+              {
+                "name": "Pack of 3",
+                "price": 79.99,
+                "id": "9b2c7f2f-f095-41cf-b4e5-bd6c53f992e0"
+              },
+              {
+                "name": "Pack of 4",
+                "price": 99.99,
+                "id": "8b2cd092-a02d-47e7-b528-662137678972"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Webcams",
+        "products": [
+          {
+            "name": "Logitech Webcam",
+            "description": "This discrete and high resolution webcam clips onto your monitor, and helps with any zoom calls you might have.",
+            "author": "Emiliano Cicero",
+            "link": "https://unsplash.com/photos/lq87UxGSiEQ",
+            "image": "images/products/accessories/webcams/logitech-webcam.jpg",
+            "price": 19.99,
+            "id": "eb0a25e1-cca7-4079-83dc-b3f069624e5b"
+          },
+          {
+            "name": "Redragon Webcam",
+            "description": "With brushed stainless steel construction, this webcam is the perfect solution for any room.",
+            "author": "Rebekah Yip",
+            "link": "https://unsplash.com/photos/VIdQW-1-fI4",
+            "image": "images/products/accessories/webcams/redragon-webcam.jpg",
+            "price": 29.99,
+            "id": "ff7ad27f-9bce-4860-925b-31932c89f287"
+          },
+          {
+            "name": "Trust Webcam",
+            "description": "This webcam is useful for any video meetings or conferences, as it has a built in microphone, in addition to the 720p camera.",
+            "author": "Waldemar Brandt",
+            "link": "https://unsplash.com/photos/VAoSKP_ocN0",
+            "image": "images/products/accessories/webcams/trust-webcam.jpg",
+            "price": 14.99,
+            "id": "78d3ec1f-eeb5-4e45-9cf3-70c0b7abf9b8"
+          }
+        ]
+      }
+    ]
+  }
+]

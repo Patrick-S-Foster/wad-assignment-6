@@ -1,0 +1,24 @@
+:root {
+    --color-background: #ffffff;
+    --color-background-muted: #e7e7e7;
+    --color-on-background: #000000;
+    --color-on-background-lighter: #464646;
+    --color-on-background-highlight: #cb1818;
+    --color-price: #19800a;
+
+    --header-hamburger-transition-duration: 0.25s;
+
+    --shop-page-transition-duration: 0.3s;
+    --shop-page-shop-button-transition-duration: 2s;
+}
+
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}

@@ -1,0 +1,42 @@
+.shop-screen-checkout {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shop-screen-checkout-title {
+    margin: 10px 0;
+}
+
+.shop-screen-checkout-form {
+    max-width: 400px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+    gap: 5px;
+}
+
+.shop-screen-checkout-form label {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.shop-screen-checkout-form input {
+    font-size: 15px;
+}
+
+.shop-screen-checkout-form textarea {
+    resize: none;
+}
+
+@media (min-width: 360px) {
+    .shop-screen-checkout-form {
+        grid-template-columns: 100px 1fr;
+    }
+
+    .shop-screen-checkout-form label {
+        align-self: center;
+        margin: 0;
+    }
+}

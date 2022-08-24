@@ -1,0 +1,44 @@
+.shop-header-desktop-category {
+    display: none;
+    position: relative;
+}
+
+.shop-header-desktop-category h2 {
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.shop-header-desktop-category-list {
+    display: none;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    background: var(--color-background-muted);
+    padding: 10px;
+}
+
+.shop-header-desktop-category:hover .shop-header-desktop-category-list,
+.shop-header-desktop-category-list:hover {
+    display: block;
+}
+
+.shop-header-desktop-category-products {
+    list-style: none;
+    padding: 5px;
+}
+
+.shop-header-desktop-category-products li {
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.shop-header-desktop-category h2:hover,
+.shop-header-desktop-category-products li:hover {
+    color: var(--color-on-background-highlight);
+}
+
+@media (min-width: 768px) {
+    .shop-header-desktop-category {
+        display: block;
+    }
+}

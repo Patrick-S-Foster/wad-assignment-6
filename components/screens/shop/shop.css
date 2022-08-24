@@ -1,0 +1,32 @@
+.shop-screen-shop-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.shop-screen-shop {
+    position: relative;
+    display: grid;
+    gap: 30px;
+    max-width: 1440px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+@media (min-width: 530px) {
+    .shop-screen-shop {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 768px) {
+    .shop-screen-shop {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1024px) {
+    .shop-screen-shop {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
